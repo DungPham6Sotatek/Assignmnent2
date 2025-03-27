@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-27T16:21:02 ICT" name="Default suite" finished-at="2025-03-27T16:21:32 ICT" duration-ms="30130">
+  <suite started-at="2025-03-27T17:29:33 ICT" name="Default suite" finished-at="2025-03-27T17:29:43 ICT" duration-ms="10040">
     <groups>
     </groups>
-    <test started-at="2025-03-27T16:21:02 ICT" name="Default test" finished-at="2025-03-27T16:21:32 ICT" duration-ms="30130">
+    <test started-at="2025-03-27T17:29:33 ICT" name="Default test" finished-at="2025-03-27T17:29:43 ICT" duration-ms="10040">
       <class name="automation.testsuite.Practice_day18">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation.testsuite.Practice_day18@3bb9a3ff]" started-at="2025-03-27T16:21:02 ICT" name="openBrowser" finished-at="2025-03-27T16:21:28 ICT" duration-ms="25737" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation.testsuite.Practice_day18@3bb9a3ff]" started-at="2025-03-27T17:29:33 ICT" name="openBrowser" finished-at="2025-03-27T17:29:38 ICT" duration-ms="5608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="consultedLogin()[pri:0, instance:automation.testsuite.Practice_day18@3bb9a3ff]" started-at="2025-03-27T16:21:28 ICT" name="consultedLogin" finished-at="2025-03-27T16:21:32 ICT" duration-ms="4360" status="PASS">
+        <test-method signature="consultedLogin()[pri:0, instance:automation.testsuite.Practice_day18@3bb9a3ff]" started-at="2025-03-27T17:29:38 ICT" name="consultedLogin" finished-at="2025-03-27T17:29:43 ICT" duration-ms="4393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- consultedLogin -->
