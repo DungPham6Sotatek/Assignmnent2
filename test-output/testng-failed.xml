@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="automation.testsuite.Section2_MagnetoTestStore">
+      <class name="automation.testsuite.Practice_day18">
         <methods>
           <include name="openBrowser"/>
-          <include name="proceedToOrderSummary"/>
+          <include name="consultedLogin"/>
         </methods>
-      </class> <!-- automation.testsuite.Section2_MagnetoTestStore -->
+      </class> <!-- automation.testsuite.Practice_day18 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

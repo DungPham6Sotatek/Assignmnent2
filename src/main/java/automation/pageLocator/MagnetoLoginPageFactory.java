@@ -16,8 +16,8 @@ public class MagnetoLoginPageFactory extends CommonBase{
 	public String pantName;
 	public String pantUnitPrice;
 	
-	public MagnetoLoginPageFactory(WebDriver _driver) {
-		this.driver = _driver;
+	public MagnetoLoginPageFactory(WebDriver commonBaseDriver) {
+		this.driver = commonBaseDriver;
 	}
 	
 	
@@ -84,7 +84,7 @@ public class MagnetoLoginPageFactory extends CommonBase{
 		clickToElement(By.xpath(CT_MagnetoLoginPage.SHOW_CART_BTN));
 		clickToElement(By.id(CT_MagnetoLoginPage.PROCEED_TO_CHECKOUT));
 		scrollToElement(By.xpath(CT_MagnetoLoginPage.NEXT_BTN));
-		pauseBrowser(3000);
+		pauseBrowser(5000);
 		clickToElement(By.xpath(CT_MagnetoLoginPage.NEXT_BTN));
 		clickByJSExecutor(By.xpath(CT_MagnetoLoginPage.SHOW_DETAILS));
 		

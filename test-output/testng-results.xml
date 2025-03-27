@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-26T14:36:20 ICT" name="Default suite" finished-at="2025-03-26T14:36:59 ICT" duration-ms="39197">
+  <suite started-at="2025-03-27T16:21:02 ICT" name="Default suite" finished-at="2025-03-27T16:21:32 ICT" duration-ms="30130">
     <groups>
     </groups>
-    <test started-at="2025-03-26T14:36:20 ICT" name="Default test" finished-at="2025-03-26T14:36:59 ICT" duration-ms="39197">
-      <class name="automation.testsuite.Section2_MagnetoTestStore">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation.testsuite.Section2_MagnetoTestStore@1aa7ecca]" started-at="2025-03-26T14:36:20 ICT" name="openBrowser" finished-at="2025-03-26T14:36:25 ICT" duration-ms="5151" status="PASS">
+    <test started-at="2025-03-27T16:21:02 ICT" name="Default test" finished-at="2025-03-27T16:21:32 ICT" duration-ms="30130">
+      <class name="automation.testsuite.Practice_day18">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation.testsuite.Practice_day18@3bb9a3ff]" started-at="2025-03-27T16:21:02 ICT" name="openBrowser" finished-at="2025-03-27T16:21:28 ICT" duration-ms="25737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="placeOrderSuccessfully()[pri:1, instance:automation.testsuite.Section2_MagnetoTestStore@1aa7ecca]" started-at="2025-03-26T14:36:25 ICT" name="placeOrderSuccessfully" finished-at="2025-03-26T14:36:59 ICT" duration-ms="34011" status="PASS">
+        <test-method signature="consultedLogin()[pri:0, instance:automation.testsuite.Practice_day18@3bb9a3ff]" started-at="2025-03-27T16:21:28 ICT" name="consultedLogin" finished-at="2025-03-27T16:21:32 ICT" duration-ms="4360" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- placeOrderSuccessfully -->
-      </class> <!-- automation.testsuite.Section2_MagnetoTestStore -->
+        </test-method> <!-- consultedLogin -->
+      </class> <!-- automation.testsuite.Practice_day18 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
