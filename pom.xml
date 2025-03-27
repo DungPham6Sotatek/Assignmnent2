@@ -26,6 +26,8 @@
     <apex.appconf.classpath>classpath/*</apex.appconf.classpath>
     <apex.appconf.files>files/*</apex.appconf.files>
     <apex.appconf.app>app/*</apex.appconf.app>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <build>
@@ -182,5 +184,7 @@
         <url>https://repo.maven.apache.org/maven2</url>
     </repository>
 </repositories>
+
+
 
 </project>
