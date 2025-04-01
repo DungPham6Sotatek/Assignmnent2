@@ -94,3 +94,16 @@
 [INFO ] 01-04-2025 13:50:46 [main] Log - type password
 [INFO ] 01-04-2025 13:50:46 [main] Log - Click button Login
 [INFO ] 01-04-2025 13:51:06 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 14:30:06 [main] Log - placeOrderSuccessfully test is starting...
+[ERROR] 01-04-2025 14:30:17 [main] Log - placeOrderSuccessfully test is failed.
+[ERROR] 01-04-2025 14:30:17 [main] Log - placeOrderSuccessfully test is failed.
+[INFO ] 01-04-2025 14:30:57 [main] Log - placeOrderSuccessfully test is starting...
+[WARN ] 01-04-2025 14:30:57 [main] Log - placeOrderSuccessfully test is skipped.
+[INFO ] 01-04-2025 14:57:24 [main] Log - placeOrderSuccessfully test is starting...
+[ERROR] 01-04-2025 14:57:38 [main] Log - placeOrderSuccessfully test is failed.
+[ERROR] 01-04-2025 14:57:38 [main] Log - placeOrderSuccessfully test is failed.
+[INFO ] 01-04-2025 15:10:29 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 15:10:29 [main] Log - type email
+[INFO ] 01-04-2025 15:10:29 [main] Log - type password
+[INFO ] 01-04-2025 15:10:29 [main] Log - Click button Login
+[INFO ] 01-04-2025 15:10:49 [main] Log - loginFailed_2 test is passed.

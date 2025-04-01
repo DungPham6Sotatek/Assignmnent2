@@ -30,7 +30,7 @@ public class Section2_MagnetoTestStore extends CommonBase {
 
 	@BeforeMethod
 	@Parameters("browserTestNG") // tên param trong pt test mà file testNG.xml ánh xạ tới
-	public void openBrowser(@Optional("Chrome") String browserTestNG) { 
+	public void openBrowser(String browserTestNG) { 
 		setUpDriver(browserTestNG);
 		driver.get(CT_PageURL.MAGNETO_URL);
 	}
