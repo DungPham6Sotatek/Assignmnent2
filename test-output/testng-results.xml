@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-01T15:10:03 ICT" name="Default suite" finished-at="2025-04-01T15:10:50 ICT" duration-ms="47068">
+  <suite started-at="2025-04-01T15:24:07 ICT" name="Default suite" finished-at="2025-04-01T15:24:53 ICT" duration-ms="46400">
     <groups>
     </groups>
-    <test started-at="2025-04-01T15:10:03 ICT" name="Default test" finished-at="2025-04-01T15:10:50 ICT" duration-ms="47068">
+    <test started-at="2025-04-01T15:24:07 ICT" name="Default test" finished-at="2025-04-01T15:24:53 ICT" duration-ms="46400">
       <class name="automation.testsuite.TestAlada">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation.testsuite.TestAlada@60f00693]" started-at="2025-04-01T15:10:03 ICT" name="openBrowser" finished-at="2025-04-01T15:10:29 ICT" duration-ms="25371" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation.testsuite.TestAlada@25df00a0]" started-at="2025-04-01T15:24:07 ICT" name="openBrowser" finished-at="2025-04-01T15:24:31 ICT" duration-ms="24667" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="loginFailed_2()[pri:0, instance:automation.testsuite.TestAlada@60f00693]" started-at="2025-04-01T15:10:29 ICT" name="loginFailed_2" finished-at="2025-04-01T15:10:49 ICT" duration-ms="20625" status="PASS">
+        <test-method signature="loginFailed_2()[pri:0, instance:automation.testsuite.TestAlada@25df00a0]" started-at="2025-04-01T15:24:31 ICT" name="loginFailed_2" finished-at="2025-04-01T15:24:52 ICT" duration-ms="20609" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFailed_2 -->
-        <test-method is-config="true" signature="quitBrowser(org.testng.ITestResult)[pri:0, instance:automation.testsuite.TestAlada@60f00693]" started-at="2025-04-01T15:10:49 ICT" name="quitBrowser" finished-at="2025-04-01T15:10:50 ICT" duration-ms="871" status="PASS">
+        <test-method is-config="true" signature="quitBrowser(org.testng.ITestResult)[pri:0, instance:automation.testsuite.TestAlada@25df00a0]" started-at="2025-04-01T15:24:52 ICT" name="quitBrowser" finished-at="2025-04-01T15:24:53 ICT" duration-ms="910" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginFailed_2 status=SUCCESS method=TestAlada.loginFailed_2()[pri:0, instance:automation.testsuite.TestAlada@60f00693] output={null}]]]>
+                <![CDATA[[TestResult name=loginFailed_2 status=SUCCESS method=TestAlada.loginFailed_2()[pri:0, instance:automation.testsuite.TestAlada@25df00a0] output={null}]]]>
               </value>
             </param>
           </params>

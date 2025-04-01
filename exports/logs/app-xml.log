@@ -107,3 +107,8 @@
 [INFO ] 01-04-2025 15:10:29 [main] Log - type password
 [INFO ] 01-04-2025 15:10:29 [main] Log - Click button Login
 [INFO ] 01-04-2025 15:10:49 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 15:24:32 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 15:24:32 [main] Log - type email
+[INFO ] 01-04-2025 15:24:32 [main] Log - type password
+[INFO ] 01-04-2025 15:24:32 [main] Log - Click button Login
+[INFO ] 01-04-2025 15:24:52 [main] Log - loginFailed_2 test is passed.
