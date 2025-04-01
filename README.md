@@ -15,28 +15,25 @@ Mục tiêu của dự án là phát hiện lỗi sớm và đảm bảo chất 
 ## Cài Đặt
 
 ### 1. Clone Repository:
-Clone repository này về máy của bạn bằng lệnh sau:
-`git clone https://github.com/DungPham6Sotatek/Assignmnent2
-
+- Clone repository này về máy của bạn bằng lệnh sau:
+`git clone https://github.com/DungPham6Sotatek/Assignmnent2`
 
 ### 2. Cài đặt phụ thuộc và cấu hình môi trường: trỏ vào thư mục đã clone từ github về 
 - ví dụ: C:\Users\admin\Assignmnent2 
-`mvn install
+`mvn install`
 
 ### 3. cài đặt môi trường:
-
 - Cài đặt Java
 - Cài đặt Maven
 
-
 ## Chạy kiểm thử:
-`mvn test -Dtest=Section2_MagnetoTestStore
-- hiện nau URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả
-`mvn test -Dtest=TestAlada
+`mvn test -Dtest=Section2_MagnetoTestStore`
+- hiện nay URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả
+`mvn test -Dtest=TestAlada`
 
 
 ## Tạo báo cáo:
-`allure serve allure-results
+`allure serve allure-results`
 
 ## Những điểm cần chú ý:
 - **WebDriverManager**: Không cần phải tải WebDriver thủ công, vì **WebDriverManager** tự động quản lý và tải WebDriver cho bạn.
