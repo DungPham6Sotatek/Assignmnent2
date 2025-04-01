@@ -16,13 +16,11 @@ Mục tiêu của dự án là phát hiện lỗi sớm và đảm bảo chất 
 
 ### 1. Clone Repository:
 Clone repository này về máy của bạn bằng lệnh sau:
-```bash
-git clone https://github.com/DungPham6Sotatek/Assignmnent2
+`git clone https://github.com/DungPham6Sotatek/Assignmnent2
 
 
 ### 2. Cài đặt phụ thuộc và cấu hình môi trường: trỏ vào thư mục đã clone từ github về (ví dụ: C:\Users\admin\Assignmnent2)
-```bash
-mvn install
+`mvn install
 
 ### 3. cài đặt môi trường:
 
@@ -31,14 +29,13 @@ mvn install
 
 
 ## Chạy kiểm thử:
-```bash
-mvn test -Dtest=Section2_MagnetoTestStore( hiện nau URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả)
-mvn test -Dtest=TestAlada
+`mvn test -Dtest=Section2_MagnetoTestStore
+( hiện nau URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả)
+`mvn test -Dtest=TestAlada
 
 
 ## Tạo báo cáo:
-```bash
-allure serve allure-results
+`allure serve allure-results
 
 ## Những điểm cần chú ý:
 - **WebDriverManager**: Không cần phải tải WebDriver thủ công, vì **WebDriverManager** tự động quản lý và tải WebDriver cho bạn.
@@ -48,5 +45,3 @@ allure serve allure-results
 
 ## Kết luận:
 Với sự cài đặt qua **Maven**, và việc sử dụng **WebDriverManager**, bạn không cần phải thêm cấu hình thủ công cho WebDriver trong môi trường của mình. README này đã mô tả tất cả các bước cần thiết để người khác có thể sử dụng và đóng góp vào dự án của bạn.
-
-Nếu có phần nào cần chỉnh sửa thêm hoặc bạn muốn thay đổi chi tiết, hãy cho tôi biết nhé!
