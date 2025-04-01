@@ -1,6 +1,6 @@
 # Dự Án Kiểm Thử Tự Động (AutoTest)
 
-## Mô Tả
+## I. Mô Tả
 Dự án kiểm thử tự động này được xây dựng nhằm mục đích kiểm tra các tính nănng đặt hàng. 
 Sử dụng các công cụ như **TestNG**, **Selenium**, **ApachePoi**, **Log4j**, **ExtendReport** và **Allure** để thực hiện các bài kiểm thử tự động và tạo báo cáo kết quả.
 Mục tiêu của dự án là phát hiện lỗi sớm và đảm bảo chất lượng của phần mềm thông qua các bài kiểm thử tự động.
@@ -12,30 +12,35 @@ Mục tiêu của dự án là phát hiện lỗi sớm và đảm bảo chất 
 - **Log4j**: ghi log trong quá trình run test case
 - **Allure**: Công cụ để tạo và trình bày báo cáo kết quả kiểm thử theo cách trực quan.
 
-## Cài Đặt
+## II. Cài Đặt
 
 ### 1. Clone Repository:
 - Clone repository này về máy của bạn bằng lệnh sau:
+
 `git clone https://github.com/DungPham6Sotatek/Assignmnent2`
 
-### 2. Cài đặt phụ thuộc và cấu hình môi trường: trỏ vào thư mục đã clone từ github về 
-- ví dụ: C:\Users\admin\Assignmnent2 
+### 2. Cài đặt phụ thuộc và cấu hình môi trường: 
+- Trỏ vào thư mục đã clone từ github về (ví dụ: C:\Users\admin\Assignmnent2)
+
 `mvn install`
 
-### 3. cài đặt môi trường:
-- Cài đặt Java
-- Cài đặt Maven
+### 3. Cài đặt môi trường:
+ - Cài đặt Java
 
-## Chạy kiểm thử:
+ - Cài đặt Maven
+
+## IV. Chạy kiểm thử:
 `mvn test -Dtest=Section2_MagnetoTestStore`
-- hiện nay URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả
+
+(hiện nay URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả)
+
 `mvn test -Dtest=TestAlada`
 
 
-## Tạo báo cáo:
+## V. Tạo báo cáo:
 `allure serve allure-results`
 
-## Những điểm cần chú ý:
+## VI. Những điểm cần chú ý:
 - **WebDriverManager**: Không cần phải tải WebDriver thủ công, vì **WebDriverManager** tự động quản lý và tải WebDriver cho bạn.
 - **Cài Đặt Phụ Thuộc**: Các thư viện cần thiết (Selenium, TestNG, Allure, WebDriverManager, Apache POI, Log4j , Extent Report) đã được khai báo trong `pom.xml`. Bạn chỉ cần chạy `mvn install` để tải về các phụ thuộc này.
 - **Chạy Kiểm Thử**: Các lệnh Maven cho phép chạy kiểm thử UI, và trên các môi trường khác nhau.
