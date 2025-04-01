@@ -19,7 +19,8 @@ Clone repository này về máy của bạn bằng lệnh sau:
 `git clone https://github.com/DungPham6Sotatek/Assignmnent2
 
 
-### 2. Cài đặt phụ thuộc và cấu hình môi trường: trỏ vào thư mục đã clone từ github về (ví dụ: C:\Users\admin\Assignmnent2)
+### 2. Cài đặt phụ thuộc và cấu hình môi trường: trỏ vào thư mục đã clone từ github về 
+- ví dụ: C:\Users\admin\Assignmnent2 
 `mvn install
 
 ### 3. cài đặt môi trường:
@@ -30,7 +31,7 @@ Clone repository này về máy của bạn bằng lệnh sau:
 
 ## Chạy kiểm thử:
 `mvn test -Dtest=Section2_MagnetoTestStore
-( hiện nau URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả)
+- hiện nau URL của assignment này đang lỗi, nên có thể chạy thử bên dưới để xem kết quả
 `mvn test -Dtest=TestAlada
 
 
@@ -44,4 +45,5 @@ Clone repository này về máy của bạn bằng lệnh sau:
 - **Báo Cáo Kết Quả**: Hướng dẫn cách tạo và xem báo cáo Allure sau khi chạy kiểm thử.
 
 ## Kết luận:
-Với sự cài đặt qua **Maven**, và việc sử dụng **WebDriverManager**, bạn không cần phải thêm cấu hình thủ công cho WebDriver trong môi trường của mình. README này đã mô tả tất cả các bước cần thiết để người khác có thể sử dụng và đóng góp vào dự án của bạn.
+- Với sự cài đặt qua **Maven**, và việc sử dụng **WebDriverManager**, bạn không cần phải thêm cấu hình thủ công cho WebDriver trong môi trường của mình.
+- README này đã mô tả tất cả các bước cần thiết để người khác có thể sử dụng và đóng góp vào dự án của bạn.
