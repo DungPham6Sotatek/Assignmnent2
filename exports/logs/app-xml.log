@@ -1,0 +1,91 @@
+[INFO ] 01-04-2025 08:55:11 [main] Log - type email
+[INFO ] 01-04-2025 08:55:12 [main] Log - type password
+[INFO ] 01-04-2025 08:55:12 [main] Log - Click button Login
+[INFO ] 01-04-2025 09:09:31 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 09:09:32 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 09:10:31 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 09:10:32 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 09:12:06 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 09:12:06 [main] Log - type email
+[INFO ] 01-04-2025 09:12:06 [main] Log - type password
+[INFO ] 01-04-2025 09:12:06 [main] Log - Click button Login
+[INFO ] 01-04-2025 09:12:27 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 09:35:40 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 09:35:40 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 09:37:37 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 09:37:37 [main] Log - type email
+[INFO ] 01-04-2025 09:37:37 [main] Log - type password
+[INFO ] 01-04-2025 09:37:37 [main] Log - Click button Login
+[INFO ] 01-04-2025 09:37:57 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 09:43:34 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 09:43:34 [main] Log - type email
+[INFO ] 01-04-2025 09:43:34 [main] Log - type password
+[INFO ] 01-04-2025 09:43:34 [main] Log - Click button Login
+[INFO ] 01-04-2025 09:43:54 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 09:47:30 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 09:47:31 [main] Log - type email
+[INFO ] 01-04-2025 09:47:31 [main] Log - type password
+[INFO ] 01-04-2025 09:47:31 [main] Log - Click button Login
+[INFO ] 01-04-2025 09:47:51 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 09:53:37 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 09:53:37 [main] Log - type email
+[INFO ] 01-04-2025 09:53:37 [main] Log - type password
+[INFO ] 01-04-2025 09:53:37 [main] Log - Click button Login
+[INFO ] 01-04-2025 09:53:57 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 10:19:53 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 10:19:53 [main] Log - type email
+[INFO ] 01-04-2025 10:19:53 [main] Log - type password
+[INFO ] 01-04-2025 10:19:53 [main] Log - Click button Login
+[INFO ] 01-04-2025 10:20:13 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 10:30:39 [main] Log - placeOrderSuccessfully test is starting...
+[WARN ] 01-04-2025 10:30:39 [main] Log - placeOrderSuccessfully test is skipped.
+[INFO ] 01-04-2025 10:30:47 [main] Log - placeOrderSuccessfully test is starting...
+[ERROR] 01-04-2025 10:30:55 [main] Log - placeOrderSuccessfully test is failed.
+[ERROR] 01-04-2025 10:30:55 [main] Log - placeOrderSuccessfully test is failed.
+[INFO ] 01-04-2025 10:31:35 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:31:35 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:31:36 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:31:36 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:31:37 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:31:37 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:34:26 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:34:26 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:34:26 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:34:26 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:35:04 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 10:35:04 [main] Log - type email
+[ERROR] 01-04-2025 10:35:34 [main] Log - loginFailed_2 test is failed.
+[ERROR] 01-04-2025 10:35:34 [main] Log - Screenshot captured for test case: loginFailed_2
+[ERROR] 01-04-2025 10:35:34 [main] Log - loginFailed_2 test is failed.
+[ERROR] 01-04-2025 10:35:34 [main] Log - Screenshot captured for test case: loginFailed_2
+[INFO ] 01-04-2025 10:37:30 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:37:30 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:38:11 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 10:38:11 [main] Log - type email
+[INFO ] 01-04-2025 10:38:11 [main] Log - type password
+[INFO ] 01-04-2025 10:38:11 [main] Log - Click button Login
+[INFO ] 01-04-2025 10:38:31 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 10:39:19 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:39:19 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:43:20 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 10:43:20 [main] Log - type email
+[INFO ] 01-04-2025 10:43:21 [main] Log - type password
+[INFO ] 01-04-2025 10:43:21 [main] Log - Click button Login
+[INFO ] 01-04-2025 10:43:41 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 10:51:55 [main] Log - loginFailed_2 test is starting...
+[WARN ] 01-04-2025 10:51:55 [main] Log - loginFailed_2 test is skipped.
+[INFO ] 01-04-2025 10:52:59 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 10:52:59 [main] Log - type email
+[INFO ] 01-04-2025 10:52:59 [main] Log - type password
+[INFO ] 01-04-2025 10:52:59 [main] Log - Click button Login
+[INFO ] 01-04-2025 10:53:19 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 10:57:34 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 10:57:34 [main] Log - type email
+[INFO ] 01-04-2025 10:57:34 [main] Log - type password
+[INFO ] 01-04-2025 10:57:34 [main] Log - Click button Login
+[INFO ] 01-04-2025 10:57:54 [main] Log - loginFailed_2 test is passed.
+[INFO ] 01-04-2025 11:11:49 [main] Log - loginFailed_2 test is starting...
+[INFO ] 01-04-2025 11:11:49 [main] Log - type email
+[INFO ] 01-04-2025 11:11:49 [main] Log - type password
+[INFO ] 01-04-2025 11:11:49 [main] Log - Click button Login
+[INFO ] 01-04-2025 11:12:10 [main] Log - loginFailed_2 test is passed.

@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<suite name="TestSuite">
 
-	<test name="TestProject with chrome">
-	<parameter name="browserTestNG" value="chrome"></parameter>
-		<classes>
-			<class name="automation.testsuite.Section2_MagnetoTestStore"/>
-			
-		</classes>	
-	</test>
+<suite name="TestSuite">
+  	<listeners>
+        <listener class-name="automation.common.listener.ReportListener"/>
+    </listeners>
+
 	<test name="TestProject with Firefox">
 	<parameter name="browserTestNG" value="firefox"></parameter>
 		<classes>
-			<class name="automation.testsuite.Section2_MagnetoTestStore"/>
+			<class name="automation.testsuite.TestAlada"/>
 			
 		</classes>	
 	</test> 
-	<test name="TestProject with Edge">
-	<parameter name="browserTestNG" value="edge"></parameter>
-		<classes>
-			<class name="automation.testsuite.Section2_MagnetoTestStore"/>
-			
-		</classes>	
-	</test> 
+
 	
 </suite> <!-- Suite -->

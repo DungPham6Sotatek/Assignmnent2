@@ -41,7 +41,7 @@ public class CommonBase {
 	}
 	
 	public WebDriver initFirefoxBrowser(String url) {
-		 WebDriverManager.firefoxdriver().setup();
+		 WebDriverManager.firefoxdriver().clearDriverCache().setup();
 		    FirefoxOptions options = new FirefoxOptions();
 		    options.addArguments("--disable-gpu");
 		    options.addArguments("--disable-software-rasterizer");
@@ -209,7 +209,7 @@ public class CommonBase {
 	}
 	
 	private WebDriver initFirefoxBrowser() {
-		 WebDriverManager.firefoxdriver().setup();
+		 WebDriverManager.firefoxdriver().clearDriverCache().setup();
 		    FirefoxOptions options = new FirefoxOptions();
 		    options.addArguments("--disable-gpu");
 		    options.addArguments("--disable-software-rasterizer");
@@ -249,9 +249,12 @@ public class CommonBase {
 			break;
 		default:
 			System.out.println("Browser: " +browserName+ " is invalid, launching Chrome as default");
-			driver = initChromeBrowser();
+			driver = initFirefoxBrowser();
 			break;
 		}
+		return driver;
+	}
+	public static WebDriver getDriver() {
 		return driver;
 	}
 }
